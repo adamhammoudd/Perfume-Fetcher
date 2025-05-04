@@ -32,13 +32,13 @@ python main.py
 Follow the on-screen instructions to search for perfumes and view detailed information.
 
 ### Example Usage
-
+```text
 Enter your preferred notes (comma-separated): woody, musky, mineral
 For which gender: for men
 Enter your minimum rating (0-5): 3
 
 Top 5 Perfume Recommendations:
-```text
+
 ╒═════════════════════════════════════╤═════════╤════════════════════╕
 │ Perfume Name                        │ Rating  │ Note Match Score   │
 ╞═════════════════════════════════════╪═════════╪════════════════════╡
