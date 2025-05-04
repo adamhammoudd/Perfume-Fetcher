@@ -38,7 +38,7 @@ For which gender: for men
 Enter your minimum rating (0-5): 3
 
 Top 5 Perfume Recommendations:
-
+```text
 ╒═════════════════════════════════════╤═════════╤════════════════════╕
 │ Perfume Name                        │ Rating  │ Note Match Score   │
 ╞═════════════════════════════════════╪═════════╪════════════════════╡
@@ -48,7 +48,7 @@ Top 5 Perfume Recommendations:
 │ Hype for Him Hinode                 │ 4.22    │ 3.0                │
 │ Majestic Oud Afnan                  │ 3.83    │ 2.5                │
 ╘═════════════════════════════════════╧═════════╧════════════════════╛
-
+```
 ## How It Works
 
 **User Input:**
